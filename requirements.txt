@@ -1,0 +1,9 @@
+﻿torch
+torchvision
+opencv-python
+pillow
+scikit-learn
+tqdm
+numpy
+transformers
+huggingface_hub

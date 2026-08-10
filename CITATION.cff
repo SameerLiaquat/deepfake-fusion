@@ -1,0 +1,10 @@
+﻿cff-version: 1.2.0
+title: "Cross-Attention Fusion of Blend-Boundary and Semantic Detectors for Deepfakes"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+    affiliation: "Keele University"
+date-released: 2026-01-01
+url: "https://github.com/[your-username]/[repo-name]"
